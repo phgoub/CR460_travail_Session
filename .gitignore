@@ -1,0 +1,5 @@
+account.json
+terraform.exe
+*.tfstate
+*.tfstate.backup
+00info.txt
